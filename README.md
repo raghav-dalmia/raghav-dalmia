@@ -19,11 +19,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/raghav0901" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raghav0901" height="30" width="40" /></a>
-<a href="https://instagram.com/dalmia_raghav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dalmia_raghav" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/raghav_0901" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raghav_0901" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/raghav2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="raghav2000" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/raghav-dalmia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="raghav-dalmia" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/raghav0901" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raghav0901" height="30" width="40" /></a>
+  <a href="https://instagram.com/dalmia_raghav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dalmia_raghav" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/raghav_0901" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raghav_0901" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/raghav2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="raghav2000" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/raghav-dalmia/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="raghav-dalmia" height="30" width="40" /></a>
+  <a href="https://atcoder.jp/users/raghav_dalmia" target="blank"> <img align="center" src="https://img.atcoder.jp/assets/atcoder.png" alt="raghav-dalmia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
