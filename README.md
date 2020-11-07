@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Raghav Dalmia</h1>.
-<h2 align="center">A passionate software developer and competitive programer from India</h2>.
+<h1 align="center">Hi 👋, I'm Raghav Dalmia.</h1>
+<h3 align="center">A passionate software developer and competitive programer from India.</h3>
 
 - 🔭 I interned with **Nucleus Software, Defence Research and Development Organisation (DRDO)**.
 
-- 🌱 I’m currently learning **GANs, DevOps**.
+- 🔭 I mentor at **GirlScript Summer of Code 2020**.
 
-- 💬 Ask me about **Python, Machine Learning and Android App Development**.
+- 🌱 I’m currently learning **GANs & DevOps**.
+
+- 💬 Ask me about **Python, Machine Learning & Android App Development**.
 
 - 👨‍💻 All of my projects are available at [raghav-dalmia](https://github.com/raghav-dalmia).
 
@@ -50,4 +52,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghav-dalmia&show_icons=true&locale=en" alt="raghav-dalmia" width = 410 /></p>
 
 ----
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=raghav-dalmia&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-dalmia" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=raghav-dalmia&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-dalmia" width = 50 height = 15/> </p>
