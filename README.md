@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghav Dalmia</h1>.
-<h3 align="center">A passionate software developer and competitive programer from India</h3>.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-dalmia&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-dalmia" /> </p>
+<h2 align="center">A passionate software developer and competitive programer from India</h2>.
 
 - 🔭 I interned with **Nucleus Software, Defence Research and Development Organisation (DRDO)**.
 
@@ -47,6 +45,9 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav-dalmia&show_icons=true&locale=en&layout=compact" alt="raghav-dalmia" width = 400/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav-dalmia&show_icons=true&locale=en&layout=compact" alt="raghav-dalmia" width = 420/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghav-dalmia&show_icons=true&locale=en" alt="raghav-dalmia" width = 420 /></p>
+
+----
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=raghav-dalmia&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-dalmia" /> </p>
