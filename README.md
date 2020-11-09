@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghav Dalmia.</h1>
 <h3 align="center">A passionate software developer and competitive programer from India.</h3>
 
-- 🔭 I interned with **Nucleus Software, Defence Research and Development Organisation (DRDO)**.
-
-- 🔭 I mentor at **GirlScript Summer of Code 2020**.
-
-- 🌱 I’m currently learning **GANs & DevOps**.
-
 - 💬 Ask me about **Python, Machine Learning & Android App Development**.
 
 - 👨‍💻 All of my projects are available at [raghav-dalmia](https://github.com/raghav-dalmia).
